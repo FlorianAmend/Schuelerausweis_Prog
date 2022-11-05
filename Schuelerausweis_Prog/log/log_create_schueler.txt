@@ -1,0 +1,27 @@
+Error: (schuelerCount)/Keine Schüler in der Datenbank
+Error: (Class: KlassenHinzufuegen)
+Error: (historyimp())
+Error: Keine BID im array vorhaden.
+Error: (get_bid)
+Error: (del_line_bid())
+Error: (Class: SchuelerErstellen(Import/Erstellen Part))
+Error: (schuelerCount)/Keine Schüler in der Datenbank
+Klasse: (11BFI0) wird gesucht.
+Error: (SucheKlasse.suche_klasse)
+Name: (11BFI0) wurde nicht gefunden.
+Klasse nicht gefunden/Error F(schueler_suche())
+Error: (schuelerCount)/Keine Schüler in der Datenbank
+Error: (Class: KlassenHinzufuegen)
+Error: (historyimp())
+Error: Keine BID im array vorhaden.
+Error: (get_bid)
+Error: (del_line_bid())
+Error: (Class: SchuelerErstellen(Import/Erstellen Part))
+Error: (schuelerCount)/Keine Schüler in der Datenbank
+Klasse: (11BFI0) wird gesucht.
+Error: (SucheKlasse.suche_klasse)
+Name: (11BFI0) wurde nicht gefunden.
+Klasse nicht gefunden/Error F(schueler_suche())
+Error: (schuelerCount)/Keine Schüler in der Datenbank
+Error: (Class: KlassenHinzufuegen)
+Error: (historyimp())
